@@ -1,0 +1,7 @@
+# Dependencies for Avowed Trainer (.NET)
+# This file is informational; use NuGet for package restoration.
+# Required packages:
+# - MemorySharp (1.0.0)
+# - Newtonsoft.Json (13.0.3)
+# - xunit (2.5.0) for testing
+# - Microsoft.NET.Test.Sdk (17.8.0)
